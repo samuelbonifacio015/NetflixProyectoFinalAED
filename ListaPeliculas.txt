@@ -1,0 +1,40 @@
+1,El Gran Lebowski,117,Comedia,Joel Coen,1998,Jeff Bridges;John Goodman;Julianne Moore,8.1
+2,La Forma del Agua,123,Fantasia,Guillermo del Toro,2017,Sally Hawkins;Doug Jones;Michael Shannon,7.3
+3,El Padrino,175,Drama,Francis Ford Coppola,1972,Marlon Brando;Al Pacino;James Caan,9.2
+4,Inception,148,Ciencia Ficcion,Christopher Nolan,2010,Leonardo DiCaprio;Joseph Gordon-Levitt;Elliot Page,8.8
+5,La Vida es Bella,116,Comedia,Roberto Benigni,1997,Roberto Benigni;Nicoletta Braschi;Giorgio Cantarini,8.6
+6,La Lista de Schindler,195,Drama,Steven Spielberg,1993,Liam Neeson;Ben Kingsley;Ralph Fiennes,8.9
+7,El Viaje de Chihiro,125,Animacion,Hayao Miyazaki,2001,Rumi Hiiragi;Miyu Irino;Mari Natsuki,8.6
+8,Los Infiltrados,151,Crimen,Martin Scorsese,2006,Leonardo DiCaprio;Matt Damon;Jack Nicholson,8.5
+9,Se7en,127,Thriller,David Fincher,1995,Morgan Freeman;Brad Pitt;Kevin Spacey,8.6
+10,El Senor de los Anillos:La Comunidad del Anillo,178,Fantasia,Peter Jackson,2001,Elijah Wood;Ian McKellen;Viggo Mortensen,8.8
+11,Gladiador,155,Accion,Ridley Scott,2000,Russell Crowe;Joaquin Phoenix;Connie Nielsen,8.5
+12,Forrest Gump,142,Drama,Robert Zemeckis,1994,Tom Hanks;Robin Wright;Gary Sinise,8.8
+13,El Silencio de los Corderos,118,Thriller,Jonathan Demme,1991,Jodie Foster;Anthony Hopkins;Scott Glenn,8.6
+14,Mad Max:Furia en la Carretera,120,Accion,George Miller,2015,Tom Hardy;Charlize Theron;Nicholas Hoult,8.1
+15,Ciudad de Dios,130,Crimen,Fernando Meirelles,2002,Alexandre Rodrigues;Leandro Firmino;Phellipe Haagensen,8.6
+16,Pulp Fiction,154,Crimen,Quentin Tarantino,1994,John Travolta;Uma Thurman;Samuel L. Jackson,8.9
+17,La Naranja Mecanica,136,Ciencia Ficcion,Stanley Kubrick,1971,Malcolm McDowell;Patrick Magee;Michael Bates,8.3
+18,12 Hombres en Pugna,96,Drama,Sidney Lumet,1957,Henry Fonda;Lee J. Cobb;Ed Begley,8.9
+19,Matrix,136,Ciencia Ficcion,Lana Wachowski,1999,Keanu Reeves;Laurence Fishburne;Carrie-Anne Moss,8.7
+20,El Club de la Pelea,139,Drama,David Fincher,1999,Brad Pitt;Edward Norton;Helena Bonham Carter,8.8
+21,El Rey Leon,88,Animacion,Roger Allers,1994,Matthew Broderick;Jeremy Irons;James Earl Jones,8.5
+22,Jurassic Park,127,Aventura,Steven Spielberg,1993,Sam Neill;Laura Dern;Jeff Goldblum,8.2
+23,El Resplandor,146,Terror,Stanley Kubrick,1980,Jack Nicholson;Shelley Duvall;Danny Lloyd,8.4
+24,Los Vengadores,143,Accion,Joss Whedon,2012,Robert Downey Jr.;Chris Evans;Scarlett Johansson,8.0
+25,Harry Potter y la Piedra Filosofal,152,Fantasia,Chris Columbus,2001,Daniel Radcliffe;Emma Watson;Rupert Grint,7.6
+26,Toy Story,81,Animacion,John Lasseter,1995,Tom Hanks;Tim Allen;Don Rickles,8.3
+27,El Pianista,150,Drama,Roman Polanski,2002,Adrien Brody;Thomas Kretschmann;Frank Finlay,8.5
+28,El Gran Hotel Budapest,99,Comedia,Wes Anderson,2014,Ralph Fiennes;F. Murray Abraham;Mathieu Amalric,8.1
+29,Coco,105,Animacion,Lee Unkrich,2017,Anthony Gonzalez;Gael Garcia Bernal;Benjamin Bratt,8.4
+30,El Caballero Oscuro: La Leyenda Renace,164,Accion,Christopher Nolan,2012,Christian Bale;Anne Hathaway;Tom Hardy,8.4
+31,It,135,Terror,Andy Muschietti,2017,Bill Skarsgard;Jaeden Martell;Finn Wolfhard,7.3
+32,Avengers: Endgame,181,Accion,Anthony Russo,2019,Robert Downey Jr.;Chris Evans;Chris Hemsworth,8.4
+33,Titanic,195,Drama,James Cameron,1997,Leonardo DiCaprio;Kate Winslet;Billy Zane,7.9
+34,Parasitos,132,Drama,Bong Joon-ho,2019,Song Kang-ho;Lee Sun-kyun;Cho Yeo-jeong,8.5
+35,Los Juegos del Hambre,142,Aventura,Gary Ross,2012,Jennifer Lawrence;Josh Hutcherson;Liam Hemsworth,7.2
+36,Wall-E,98,Animacion,Andrew Stanton,2008,Ben Burtt;Elissa Knight;Jeff Garlin,8.4
+37,Up,96,Animacion,Pete Docter,2009,Edward Asner;Christopher Plummer;Jordan Nagai,8.2
+38,Shrek,90,Animacion,Andrew Adamson,2001,Mike Myers;Eddie Murphy;Cameron Diaz,7.9
+39,Interestelar,169,Ciencia Ficcion,Christopher Nolan,2014,Matthew McConaughey;Anne Hathaway;Jessica Chastain,8.6
+40,Batman Inicia,140,Accion,Christopher Nolan,2005,Christian Bale;Michael Caine;Liam Neeson,8.2
